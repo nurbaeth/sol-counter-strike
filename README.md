@@ -16,7 +16,7 @@ This is a **pure Web3 game** — no tokens, no rewards, no off-chain logic. Just
 
 ---
 
-## ⚙️ Smart Contract Overview 
+## ⚙️ Smart Contract Overview  
 
 ```solidity
 joinGame(Team team)          // Join a team (Terrorist or Counter-Terrorist)
